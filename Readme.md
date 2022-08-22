@@ -7,6 +7,7 @@
 ### Technologies
 - HTML 5 
 - CSS 3
+- @media query css
 
 ###  learn about lot of css property and html element
 #####   clean code , structure css and nice background Images
